@@ -1,0 +1,3 @@
+[submodule "lib/PukiWikiUtility"]
+	path = lib/PukiWikiUtility
+	url = git@github.com:t-kashima/PukiWikiUtility.git
